@@ -1,7 +1,10 @@
+<img width="800" height="30" alt="image" src="https://github.com/user-attachments/assets/8d1d54a9-e5ac-4e52-97a2-98f9964a6e0b" />
+
+
 Hello <img width="20" height="20" alt="dcoz0th-bbd20a6c-c67c-4689-aa50-60d7235fdd91" src="https://github.com/user-attachments/assets/7a99bc79-1edc-45b2-9b33-1574a64fce84" />
 
 
-I'm a CS student, and sometimes I code for fun
+Still a CS student
 
 
 ## 🌐 Connect with me:
@@ -22,3 +25,5 @@ I'm a CS student, and sometimes I code for fun
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sarido275&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 -->
+
+
