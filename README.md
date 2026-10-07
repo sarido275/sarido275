@@ -1,4 +1,4 @@
-<img width="800" height="30" alt="image" src="https://github.com/user-attachments/assets/8d1d54a9-e5ac-4e52-97a2-98f9964a6e0b" />
+<img width="800" height="30" alt="image" src="https://pixelsafari.neocities.org/dividers/more/clovers.gif" />
 
 
 Hello <img width="20" height="20" alt="dcoz0th-bbd20a6c-c67c-4689-aa50-60d7235fdd91" src="https://github.com/user-attachments/assets/7a99bc79-1edc-45b2-9b33-1574a64fce84" />
