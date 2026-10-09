@@ -4,7 +4,7 @@
 Hello <img width="20" height="20" alt="dcoz0th-bbd20a6c-c67c-4689-aa50-60d7235fdd91" src="https://github.com/user-attachments/assets/7a99bc79-1edc-45b2-9b33-1574a64fce84" />
 
 
-Still a CS student
+
 
 
 ## 🌐 Connect with me:
